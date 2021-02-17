@@ -1,0 +1,350 @@
+.cv {
+    background-image: linear-gradient(red,yellow);
+    width: 100%; height: 80%;
+}
+
+.navtop {
+    margin-left: 800px;
+    margin-top: -420px;
+    font-size: 16px;
+}
+
+.hom {
+    margin-left: 18px;
+    margin-right: 10px;
+}
+
+h1 {
+    margin-top: -60px;
+    color: whitesmoke;
+    margin-left: 10px;
+}
+
+.pers {
+    background-image: url('assets/paul1.jpg');
+    text-align: center;
+    margin-left: 490px;
+    margin-top: -18px;
+    border: 2px solid whitesmoke;
+    border-radius: 150px;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+}
+
+.pers a {
+    background-color: black;
+    color: whitesmoke;
+    padding: 5px;
+}
+
+h2 {
+    margin-top: 315px;
+}
+
+p {
+    margin-top: -20px;
+}
+
+.mid {
+    background-color: black;
+    width: 100%; height: 150%;
+    margin-top: 97px;
+    color: whitesmoke;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+.box {
+    border: 1px solid orangered;
+    border-radius: 10px;
+    margin-top: -883px; margin-left: 560px;
+    width: 12px;
+    height: 12px;
+    padding: 10px;
+}
+
+.box1 {
+    border: 1px solid orangered;
+    border-radius: 10px;
+    margin-left: 740px; margin-top: -34px;
+    width: 12px;
+    height: 12px;
+    padding: 10px;
+}
+
+.education {
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+
+h4 {
+    color: whitesmoke;
+    margin-left: 55px; margin-top: -30px;
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+    border:solid orangered;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+h5 {
+    color: orangered;
+    margin-left: 40px; margin-top: -15px;
+}
+
+h6 {
+    color: whitesmoke;
+    margin-left: 40px; margin-top: -10px;
+}
+
+.l1 {
+    border-left: 1px solid orangered;
+    height: 60px;
+    margin-left: 22px; margin-top: -70px;
+}
+
+.dot1 {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+    border:solid orangered;
+    display: inline-block;
+    margin-left: 15px; margin-top: 10px;
+}
+
+.dot2 {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+    border:solid orangered;
+    display: inline-block;
+    margin-left: 15px; margin-top: 10px;
+}
+
+.l2 {
+    border-left: 1px solid orangered;
+    height: 40px;
+    margin-left: 22px; margin-top: -70px;
+}
+
+.employment {
+    margin-left: 200px;
+    margin-top: 15px;
+}
+
+
+.dot3 {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+    border:solid orangered;
+    display: inline-block;
+    margin-left: 15px; margin-top: 10px;
+}
+
+.dot4 {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+    border:solid orangered;
+    display: inline-block;
+    margin-left: 15px; margin-top: 10px;
+}
+
+.dot5 {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+    border:solid orangered;
+    display: inline-block;
+    margin-left: 15px; margin-top: 10px;
+}
+
+.num {
+    color: orangered;
+    margin-left: 500px; margin-top: -584px;
+}
+
+.num1 {
+    color: orangered;
+    margin-left: 500px; margin-top: 75px;
+}
+
+.num2 {
+    color: orangered;
+    margin-left: 500px; margin-top: 75px;
+}
+
+.num3 {
+    color: orangered;
+    margin-left: 500px; margin-top: 130px;
+}
+
+.num4 {
+    color: orangered;
+    margin-left: 500px; margin-top: 75px;
+}
+
+.num5 {
+    color: orangered;
+    margin-left: 500px; margin-top: 75px;
+}
+
+.employment1 {
+    margin-left: 720px;
+    margin-top: -595px;
+}
+
+hr.line {
+    border: 5px solid green;
+    border-radius: 5px;
+    width: 400px;
+    margin-left: 55px;
+}
+
+.dot6 {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+    border:solid orangered;
+    display: inline-block;
+    margin-left: 15px; margin-top: 10px;
+}
+
+.l3 {
+    border-left: 1px solid orangered;
+    height: 30px;
+    margin-left: 22px; margin-top: -18px;
+}
+
+hr.line1 {
+    border: 5px solid lightgreen;
+    border-radius: 5px;
+    width: 475px;
+    margin-left: 55px; margin-top: -20px;
+}
+
+hr.line2 {
+    border: 5px solid gold;
+    border-radius: 5px;
+    width: 350px;
+    margin-left: 55px; margin-top: -20px;
+}
+
+hr.line3 {
+    border: 5px solid darkgoldenrod;
+    border-radius: 5px;
+    width: 400px;
+    margin-left: 55px; margin-top: -20px;
+}
+
+hr.line4 {
+    border: 5px solid rosybrown;
+    border-radius: 5px;
+    width: 300px;
+    margin-left: 55px; margin-top: -20px;
+}
+
+.percent {
+    color: whitesmoke;
+    margin-left: 1270px; margin-top: -285px;
+}
+
+.percent1 {
+    color: whitesmoke;
+    margin-left: 1270px; margin-top: 50px;
+}
+
+.percent2 {
+    color: whitesmoke;
+    margin-left: 1270px; margin-top: 30px;
+}
+
+.percent3 {
+    color: whitesmoke;
+    margin-left: 1270px; margin-top: 40px;
+}
+
+.percent4 {
+    color: whitesmoke;
+    margin-left: 1270px; margin-top: 40px;
+}
+
+.certificates {
+    margin-left: 720px;
+    margin-top: 20px;
+}
+
+.l4 {
+    border-left: 1px solid orangered;
+    height: 30px;
+    margin-left: 22px; margin-top: -45px;
+}
+
+.num6 {
+    color: orangered;
+    margin-left: 1100px; margin-top: -125px;
+}
+
+.num7 {
+    color: orangered;
+    margin-left: 1100px; margin-top: 40px;
+}
+
+.language {
+    margin-left: 720px;
+    margin-top: 35px;
+}
+
+.l5 {
+    border-left: 1px solid orangered;
+    height: 35px;
+    margin-left: 22px; margin-top: -15px;
+}
+
+.rating {
+    margin-left: 760px; margin-top: -30px;
+}
+
+
+.dot7 {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+    border:solid orangered;
+    display: inline-block;
+    margin-left: 1000px; margin-top: -54px;
+}
+
+.l6 {
+    border-left: 1px solid orangered;
+    height: 35px;
+    margin-left: 1007px; margin-top: -29px;
+}
+
+.head {
+    color: orangered;
+    margin-left: 1030px;
+}
+
+.rating1 {
+    margin-left: 1026px; margin-top: -28px;
+}
